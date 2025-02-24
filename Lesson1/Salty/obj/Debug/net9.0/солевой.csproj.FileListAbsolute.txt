@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\bin\Debug\net9.0\солевой.exe
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\bin\Debug\net9.0\солевой.deps.json
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\bin\Debug\net9.0\солевой.runtimeconfig.json
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\bin\Debug\net9.0\солевой.dll
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\bin\Debug\net9.0\солевой.pdb
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.sourcelink.json
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.dll
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\refint\солевой.dll
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.pdb
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\солевой.genruntimeconfig.cache
+C:\Users\Админ\Desktop\Vimoz\code10\lesson1\salty\obj\Debug\net9.0\ref\солевой.dll
